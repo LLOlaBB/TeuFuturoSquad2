@@ -25,8 +25,6 @@
 
 #header .top-esquerda {
     margin-top: -20px;
-    /* overflow: hidden;
-    zoom: 1; */
     padding-right: 10px;
 }
 #header .top-direita {
@@ -62,7 +60,6 @@
      font-family: 'Roboto', sans-serif;
      font-weight: 700;
      letter-spacing: 3px;
-     
  }
  #header #logo h1 a, #header #logo h1 a:hover {
      color: #000048;
@@ -70,7 +67,7 @@
      border-left: 4px solid #2f78c4;
  }
  
- .grupo-2 {
+.grupo-2 {
      font-family: 'Roboto', sans-serif;
      color: #2f78c4;
      font-size: 20px;
